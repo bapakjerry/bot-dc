@@ -7,7 +7,7 @@ Bot Discord ini berfungsi untuk mengirim dan menghapus pesan otomatis.
 1.  Clone repositori ini:
 
     ```bash
-    git clone [https://github.com/nama-pengguna/nama-repositori.git](https://github.com/nama-pengguna/nama-repositori.git)
+    git clone https://github.com/bapakjerry/bot-dc.git
     ```
 
 2.  Instal library yang dibutuhkan:
@@ -28,6 +28,6 @@ Bot Discord ini berfungsi untuk mengirim dan menghapus pesan otomatis.
 
 ## Catatan
 
-*   Pastikan Anda telah membuat bot Discord dan mendapatkan tokennya.
+*   Pastikan Anda telah membuat akun Discord dan mendapatkan tokennya.
 *   Pastikan bot Anda memiliki izin yang cukup untuk mengirim dan menghapus pesan di channel Discord.
-*   Jangan pernah membagikan token bot Anda kepada siapa pun.
+*   Jangan pernah membagikan token Anda kepada siapa pun.
