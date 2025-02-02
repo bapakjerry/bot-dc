@@ -9,6 +9,10 @@ Bot Discord ini berfungsi untuk mengirim dan menghapus pesan otomatis.
     ```bash
     git clone https://github.com/bapakjerry/bot-dc.git
     ```
+    
+    ```bash
+    cd bot-dc
+    ```
 
 2. Buat dan Aktifkan Virtual Environment:
 
