@@ -2,6 +2,8 @@
 
 Bot Discord ini berfungsi untuk mengirim dan menghapus pesan otomatis.
 
+Cocok untuk mengejar role di akun Discord kalian.
+
 ## Cara Menggunakan
 
 1.  Clone repositori ini:
