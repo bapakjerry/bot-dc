@@ -13,7 +13,7 @@ init()
 # Fungsi untuk menampilkan judul
 def tampilkan_judul():
     os.system('cls' if os.name == 'nt' else 'clear')
-    judul = pyfiglet.figlet_format("Pengirim Pesan Discord", font="slant")
+    judul = pyfiglet.figlet_format("Jerry Madez", font="slant")
     print(Fore.BLUE + judul + Fore.RESET)
     print(Fore.GREEN + "Selamat datang di program pengirim pesan Discord!" + Fore.RESET)
 
