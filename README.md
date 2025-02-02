@@ -10,17 +10,29 @@ Bot Discord ini berfungsi untuk mengirim dan menghapus pesan otomatis.
     git clone https://github.com/bapakjerry/bot-dc.git
     ```
 
-2.  Instal library yang dibutuhkan:
+2. Buat dan Aktifkan Virtual Environment:
+
+```bash
+   apt install python3-venv
+```
+```bash
+   python3 -m venv bot-dc
+```
+```bash
+   source bot-dc/bin/activate
+```
+
+3.  Instal library yang dibutuhkan:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-3.  Edit file `config.py` dan isi dengan token bot dan ID channel Anda.
+4.  Edit file `config.py` dan isi dengan token bot dan ID channel Anda.
 
-4.  Edit file `pesan.txt` dan isi dengan pesan yang ingin dikirim.
+5.  Edit file `pesan.txt` dan isi dengan pesan yang ingin dikirim.
 
-5.  Jalankan bot:
+6.  Jalankan bot:
 
     ```bash
     python main.py
