@@ -12,15 +12,15 @@ Bot Discord ini berfungsi untuk mengirim dan menghapus pesan otomatis.
 
 2. Buat dan Aktifkan Virtual Environment:
 
-```bash
+   ```bash
    apt install python3-venv
-```
-```bash
+   ```
+   ```bash
    python3 -m venv bot-dc
-```
-```bash
+   ```
+   ```bash
    source bot-dc/bin/activate
-```
+   ```
 
 3.  Instal library yang dibutuhkan:
 
