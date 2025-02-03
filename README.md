@@ -41,7 +41,7 @@ Cocok untuk mengejar role di akun Discord kalian.
 6.  Jalankan bot:
 
     ```bash
-    python main.py
+    python3 main.py
     ```
 
 ## Catatan
